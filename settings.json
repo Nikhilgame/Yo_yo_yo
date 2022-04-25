@@ -1,21 +1,21 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "",
+    "password": "11",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
-    "version": "1.17.1"
+    "ip": "ritikraj985.aternos.me",
+    "port": "19040",
+    "version": "1.18.30"
   },
 
   "position": {
-    "enabled": false,
-    "x": 0,
-    "y": 0,
-    "z": 0
+    "enabled": true,
+    "x": 1,
+    "y": 1,
+    "z": 1
   },
 
   "utils": {
@@ -25,8 +25,8 @@
     },
 
     "anti-afk": {
-      "enabled": false,
-      "sneak": false
+      "enabled": true,
+      "sneak": true,
     },
 
     "chat-messages": {
@@ -36,14 +36,15 @@
 
       "messages": [
         "I'm a regular player ",
-        "My owner is urFate_ ",
-        "I want be alone ",
-        "Visit my GitHub page! (urFate/Afk-Bot)"
-      ]
+        "My owner is Ritikraj985 ",
+        "I want be alone "
+
+
+]
     },
 
     "chat-log": true,
-    "auto-reconnect": false,
+    "auto-reconnect": true,
     "auto-recconect-delay": 5000
   }
 }
