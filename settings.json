@@ -1,13 +1,13 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "11",
+    "password": "",
     "type": "mojang"
   },
 
   "server": {
-    "ip": "ritikraj985.aternos.me",
-    "port": "19040",
+    "ip": "STAR_BOY_AMAN.aternos.me",
+    "port": "52028",
     "version": "1.18.30"
   },
 
