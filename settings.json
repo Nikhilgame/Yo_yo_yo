@@ -6,8 +6,8 @@
   },
 
   "server": {
-    "ip": "localhost",
-    "port": 25565,
+    "ip": "STAR_BOY_AMAN.aternos.me",
+    "port": 52028,
     "version": "1.19.3"
   },
 
